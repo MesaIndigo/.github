@@ -8,7 +8,10 @@
 ### M.I. Resources Discord: [click me](https://discord.gg/XwhBUGErxY)
 
 ### Current active projects:
-* 
+* [M.I.R. - Civilian System](https://github.com/orgs/MesaIndigo/projects/1/views/1)
+* [M.I.R. - Criminal System](https://github.com/orgs/MesaIndigo/projects/2/views/1)
+* [M.I.R. - Emergency System](https://github.com/orgs/MesaIndigo/projects/3/views/1)
+* [M.I.R. - State System](https://github.com/orgs/MesaIndigo/projects/4/views/1)
 
 
 If you want, help me stay alive by sending coffee:
