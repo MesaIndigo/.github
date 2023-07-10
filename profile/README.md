@@ -2,11 +2,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/MesaIndigo)
 ![Static Badge](https://img.shields.io/badge/Number_of_Active_Raccoons:-3-A600FF)
 
-
 ### M.I. Resources Discord: [click me](https://discord.gg/XwhBUGErxY)
-
-### Popular repos:
-* [Ox Inventory - Items Template](https://github.com/MIAgimir/Ox_Inventory-ItemsTemplate) - Items ready to use with ox_inventory
 
 ### Current active projects:
 * 
