@@ -9,10 +9,7 @@
 * [Ox Inventory - Items Template](https://github.com/MIAgimir/Ox_Inventory-ItemsTemplate) - Items ready to use with ox_inventory
 
 ### Current active projects:
-* [M.I. Civilian System](https://github.com/users/MIAgimir/projects/2)
-* [M.I. Emergency System](https://github.com/users/MIAgimir/projects/3)
-* [M.I. State System](https://github.com/users/MIAgimir/projects/4)
-* [M.I. Criminal System](https://github.com/users/MIAgimir/projects/5)
+* 
 
 
 If you want, help me stay alive by sending coffee:
