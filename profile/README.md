@@ -1,5 +1,4 @@
-![gibtrash](https://github.com/MIAgimir/MIAgimir/assets/116332087/2dc46180-280c-4dd8-8705-2f5e4b75c7bb)
-
+![Artboard 1](https://github.com/MesaIndigo/.github/assets/116332087/54b207d4-f5ce-4c16-a893-d1d4ec59d70d)
 ![GitHub User's stars](https://img.shields.io/github/stars/MesaIndigo)
 ![Static Badge](https://img.shields.io/badge/Number_of_Active_Raccoons:-3-A600FF)
 
@@ -19,3 +18,5 @@
 If you want, help me stay alive by sending coffee:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S5IBXL6)
+
+
