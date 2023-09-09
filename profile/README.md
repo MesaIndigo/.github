@@ -2,20 +2,8 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/MesaIndigo)
 ![Discord](https://img.shields.io/discord/1122739697316278282?label=Number%20of%20Active%20Raccoons&color=A600FF)
 
-
-
-
-### M.I. Resources Discord: [click me](https://discord.gg/XwhBUGErxY)
-
-### Current active projects:
-* [M.I.R. - Civilian System](https://github.com/orgs/MesaIndigo/projects/1/views/1)
-* [M.I.R. - Criminal System](https://github.com/orgs/MesaIndigo/projects/2/views/1)
-* [M.I.R. - Emergency System](https://github.com/orgs/MesaIndigo/projects/3/views/1)
-* [M.I.R. - State System](https://github.com/orgs/MesaIndigo/projects/4/views/1)
-
-
-If you want, help me stay alive by sending coffee:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S5IBXL6)
-
-
+ #### M.I. Resources Gitbook: [click me](https://mesa-indigo.gitbook.io/m.i.-resources/)
+*for all your questions*
+ 
+ #### M.I. Resources Discord: [click me](https://discord.gg/XwhBUGErxY)
+ *for all your community needs*
