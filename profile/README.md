@@ -1,4 +1,4 @@
-![Artboard 1](https://github.com/MesaIndigo/.github/assets/116332087/54b207d4-f5ce-4c16-a893-d1d4ec59d70d)
-![GitHub User's stars](https://img.shields.io/github/stars/MesaIndigo)
+## Currently on hiatus for an undetermined amount of time
 
-Currently on hiatus. Support will not be given as I am dealing with my mommy issues
+Feel free to use / fork / read / consume the archived repositories. Apologies for the abrupt good-bye, life tends to hit like a brick.
+Maybe I'll come back for GTAIV if I am able to.
